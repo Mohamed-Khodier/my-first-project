@@ -1,2 +1,6 @@
 # my-first-project
-My beginning
+
+# My first code
+
+name = "Mohamed"
+print(f"Hello, {name}!")
